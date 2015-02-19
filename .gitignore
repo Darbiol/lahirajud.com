@@ -1,0 +1,6 @@
+#Do commit the zip of the mongo-database
+!ngCodeCamper.zip
+
+/build
+bower_components/
+node_modules/
